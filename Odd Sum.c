@@ -16,7 +16,7 @@ int main(void){
             }
         }
 
-        printf("Case %d: %d",num,count);
+        printf("Case %d: %d\n",num,count);
 
         num++;
 
