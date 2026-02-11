@@ -32,7 +32,7 @@ int main(void){
 				deg++;
 			}
 			
-			printf("%s is a multiple of 9 and has 9-degree %d\n",arr,deg);
+			printf("%s is a multiple of 9 and has 9-degree %d.\n",arr,deg);
 			
 		}
 		
